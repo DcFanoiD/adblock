@@ -7,4 +7,4 @@
 !
 
 ||accounts.google.com/gsi/iframe/$subdocument
-||dtf.ru##.mobile-app-redirect
+##.mobile-app-redirect
