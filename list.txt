@@ -8,3 +8,4 @@
 
 ||accounts.google.com/gsi/iframe/$subdocument
 ##.mobile-app-redirect
+habr.com##.tm-feature
