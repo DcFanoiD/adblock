@@ -8,4 +8,4 @@
 
 ||accounts.google.com/gsi/iframe/$subdocument
 ##.mobile-app-redirect
-##.tm-feature
+##.tm-feature.tm-feature
