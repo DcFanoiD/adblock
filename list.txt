@@ -7,5 +7,9 @@
 !
 
 ||accounts.google.com/gsi/iframe/$subdocument
-##.mobile-app-redirect
-##.tm-feature.tm-feature
+dtf.ru#@#.mobile-app-redirect
+habr.com#@#.tm-feature
+||saas-support.com^
+||venyoo.ru^
+||jivosite.com^
+||callibri.ru^
