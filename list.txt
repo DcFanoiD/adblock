@@ -9,6 +9,8 @@
 ||accounts.google.com/gsi/iframe/$subdocument
 dtf.ru#@#.mobile-app-redirect
 habr.com#@#.tm-feature
+vk.com#@#.PageBottomBanner--unauth
+vk.com#@#.UnauthorizedActionModal--more
 ||saas-support.com^
 ||venyoo.ru^
 ||jivosite.com^
